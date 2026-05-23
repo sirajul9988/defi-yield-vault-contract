@@ -1,0 +1,8 @@
+{
+  "name": "defi-yield-vault-contract",
+  "version": "1.0.0",
+  "description": "ERC-4626 Tokenized Vault implementation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
